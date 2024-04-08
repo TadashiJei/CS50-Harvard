@@ -20,7 +20,7 @@ Welcome! This repository documents my progress through Harvard's legendary CS50x
 ## ✨ About Me
 
 * **Tadashi Jei | Java Jay Bartolome** 
-* **Just for Certifate?**
+* **Harvard is synonymous with academic excellence and carries immense prestige worldwide. Taking a course here enhances your resume and opens doors.**
 
 ## 🤝 Let's Connect!
 
